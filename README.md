@@ -31,4 +31,18 @@ TODO : Since distribution of samples across classes is not balanced, additional 
 ![Class Imbalance](images/class_imbalance.png)
  
 
+## Model's Accuracy ##
+
+### Training accuracy ###
+
+Training accuracy is 97%
+
+![Training Accuracy](images/train_accuracy_loss.png)
+
+
+### Validation accuracy ###
+
+Validation accuracy is 97%
+
+![Training Accuracy](images/val_accuracy_loss.png)
 	     
