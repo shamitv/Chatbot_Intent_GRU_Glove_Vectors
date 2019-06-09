@@ -22,7 +22,13 @@ Experiment includes :
 	  - mis-spelled words  
 	  - Mixed Languages 
 	    
+## Dataset ##
 
+Source of the dataset is not clear. It seems to be from a customer facing Chatbot.  Location of the data is : https://github.com/Dark-Sied/Intent_Classification/blob/master/Dataset.csv
+
+TODO : Since distribution of samples across classes is not balanced, additional metrics such as AUC should be used for measurement of model's performance.
+
+![Class Imbalance](images/class_imbalance.png)
  
 
 	     
